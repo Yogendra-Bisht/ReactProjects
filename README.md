@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-**Nest** is a dedicated web application designed to connect students of **[Your College Name]** with verified room and PG (Paying Guest) accommodations located near the campus.
+**Nest** is a dedicated web application designed to connect students of **HNBGU** with verified room and PG (Paying Guest) accommodations located near the campus.
 
 This platform streamlines the entire process, allowing room/PG owners to register and manage their properties, and providing students with a clean, searchable interface to find, compare, and book their ideal living space. It is enhanced with a crucial "Campus Guide" feature to provide essential local information.
 
